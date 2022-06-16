@@ -1,2 +1,2 @@
-# to-d_list
+# to-do_list
 a simple to-do list
